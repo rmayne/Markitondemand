@@ -1,0 +1,19 @@
+{
+    "name": "rzr/markitondemand",
+    "description": "Zend Framework 2 module for Markit on Demand API",
+    "keywords": ["stock","market", "financial", "zend"],
+    "homepage": "https://github.com/rmayne/Markitondemand",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Reiser Mayne",
+            "email": "admin@hypersocialmobile.com",
+            "homepage": "https://github.com/rmayne/",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+	    "php": "^5.5",
+        "zendframework/zend-http": "^2.5"
+    }
+}
